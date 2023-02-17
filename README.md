@@ -12,10 +12,11 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,react,threejs,vue,next,git,linux)](https://skillicons.dev)
 
-
 ## Waht I Learning
 
 [![My Learning Skills](https://skillicons.dev/icons?i=threejs,k8s,blender,unity,docker,k8s)](https://skillicons.dev)
+
+------
 
 <div align=center>
     <img
