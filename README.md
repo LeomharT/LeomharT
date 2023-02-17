@@ -8,6 +8,15 @@
 
 ![ProfileView](https://komarev.com/ghpvc/?username=LeomharT)
 
+## What I Learned
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,react,threejs,vue,next,git,linux)](https://skillicons.dev)
+
+
+## Waht I Learning
+
+[![My Learning Skills](https://skillicons.dev/icons?i=threejs,k8s,blender,unity,docker,k8s)](https://skillicons.dev)
+
 <div align=center>
     <img
         alt='trophy'
@@ -26,10 +35,12 @@
 
 <div align=center>
     <img
+        height='150'
         alt='GitHub Streak'
         src='https://streak-stats.demolab.com?user=LeomharT&theme=algolia&hide_border=true'
     />
     <img
+        height='150'
         alt="LeomharT's GitHub stats"
         src='https://github-readme-stats.vercel.app/api?username=LeomharT&theme=algolia&hide_border=true'
     />
