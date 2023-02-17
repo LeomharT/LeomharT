@@ -1,6 +1,9 @@
 
 <div class='profile'>
-    <p content='LeomharT'><span>✨✨✨</span> 𝓛𝓮𝓸𝓶𝓱𝓪𝓻𝓣 <span>✨✨✨</span></p>
+    <p content='LeomharT' style="color:red;">
+    <span>✨✨✨</span>
+    𝓛𝓮𝓸𝓶𝓱𝓪𝓻𝓣
+    <span>✨✨✨</span></p>
 </div>
 
 ![ProfileView](https://komarev.com/ghpvc/?username=LeomharT)
