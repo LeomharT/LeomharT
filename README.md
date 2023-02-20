@@ -6,6 +6,8 @@
     <span>✨✨✨</span></p>
 </div>
 
+![Image](./assets/night.gif)
+
 ![ProfileView](https://komarev.com/ghpvc/?username=LeomharT)
 
 ## What I Learned
